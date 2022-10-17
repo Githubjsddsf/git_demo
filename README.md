@@ -8,7 +8,8 @@
 ---
 
 ### Code examples
-`git clone <url>`
+
+inline code: `git clone <url>`
 
 ```bash
 cd /opt
