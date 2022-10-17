@@ -3,9 +3,9 @@ name = input ("Give me your name: ")
 print("Hello World!")
 
 
-def greeting(name: str):
+def greet(name: str):
         print(f'Hello {name}!')
 
-greeting(name)
+greet(name)
 
-# TODO: modify program to great by name
+# TODO: modify program to great by name and implement main function
